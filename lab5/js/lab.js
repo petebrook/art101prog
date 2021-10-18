@@ -14,8 +14,8 @@ year = "2006";
 age = 2021 - year;
 
 // output
-document.writeLn("Make: " + make + "<br>");
-document.writeLn("Model: " + model + "<br>");
-document.writeLn("Color: " + color + "<br>");
-document.writeLn("Year: " + year + "<br>");
-document.writeLn("Age: " + age + "years<br>");
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + "years<br>");
