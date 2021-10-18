@@ -1,9 +1,9 @@
 // Summary.
-// Description.
-// @link   URL
-// @file   This files defines the MyClass class.
-// @author AuthorName.
-// @since  x.x.x
+// Description.	This is about psuedocoding.
+// @link   			www.www.www.www
+// @file   			This is about psuedocoding.
+// @author 			Pete.
+// @since  			2021!!!
 
 // Wake up
   // Grab the apple bag
