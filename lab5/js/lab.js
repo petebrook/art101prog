@@ -8,7 +8,7 @@
 make = "Kia";
 model = "Rio";
 color = "Banana Slug Yellow";
-year = "2006";
+year = 2006;
 
 //calculate
 age = 2021 - year;
