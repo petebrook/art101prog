@@ -6,6 +6,12 @@
 
 function sortUserName() {
 var userName = window.prompt("What's your name? I can fix it!");
+
+if (userName != null)
+  document.getElementById("demo").innerHTML =
+  "Hello " + userName + "! How are you today?";
+}
+
 console.log("userName =", userName);
 
 var nameArray = userName.split('');
