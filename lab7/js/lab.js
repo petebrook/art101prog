@@ -24,5 +24,3 @@ function sortUserName() {
 }
 
 document.writeln("Hello, here's your new moniker: ", sortUserName());
-
-//Convert it back and forth
