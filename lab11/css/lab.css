@@ -6,7 +6,17 @@
   margin: 20px;
 }
 
-.special {
+.special1 {
   background-color: #fdf7ed;
   border: solid 5px orange;
+}
+
+.special2 {
+  background-color: #fdf7ed;
+  border: solid 5px blue;
+}
+
+.special3 {
+  background-color: #fdf7ed;
+  border: solid 5px green;
 }

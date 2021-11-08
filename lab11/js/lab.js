@@ -24,15 +24,15 @@ $("#results").append("<button id='r-button3'>A third tempting button</button>");
 // (we are traversing the DOM to the parent)
 
 $("#r-button1").click(function(){
-  $(this).parent().toggleClass("special");
+  $(this).parent().toggleClass("special1");
 })
 
 $("#r-button2").click(function(){
-  $(this).parent().toggleClass("special");
+  $(this).parent().toggleClass("special2");
 })
 
 $("#r-button3").click(function(){
-  $(this).parent().toggleClass("special");
+  $(this).parent().toggleClass("special3");
 })
 
 // Go into your css and style each of the classes
