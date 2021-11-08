@@ -1,8 +1,7 @@
 /**
  * Author:    Pete
  * Created:   11.08.2021
- *
- * (c) Copyright by blah blah blah
+ * Copyright by blah blah blah
  **/
 
 // Find the section you want to add the button to
