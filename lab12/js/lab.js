@@ -26,6 +26,6 @@
  myButton.addEventListener("click", function() {
    var name = document.getElementById("input").value;
    var FootieTeam = bigSortTub(name);
-   newText = "<p>You are now an official supporter of " + FootieTeam"</p>";
+   newText = "<p>You are now an official supporter of " + FootieTeam " </p>";
    document.getElementById("output").innerHTML = newText;
  })
